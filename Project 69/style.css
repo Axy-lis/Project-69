@@ -1,0 +1,103 @@
+
+
+body
+{
+    text-align: center;
+}
+
+
+.hr
+{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+Contact_1
+{
+    text-align: center;
+    display: inline;
+}
+
+.image
+{
+    width: 100%;
+    height: auto;
+}
+
+.image2
+{
+    width: 50%;
+    
+}
+
+.about
+{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+
+.Campus_life_maindiv hr
+
+{
+    margin-left:20px;
+}
+
+.Campus_life_maindiv img
+
+{
+   width: 100%;
+    height: 500px;
+}
+
+.about
+{
+    font-family: Zen Loop;
+    font-size: 20px
+}
+
+#details
+{
+    font-family: Zilla Slab
+}
+
+.navbar-brand, nav, #Campus_Life, #Contact_Us,#Whats_New, #Achievements, #Alumni
+{
+    font-family: Rajdhani;
+}
+
+#achievementsID{
+ padding-bottom: 10px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+.movie_text p
+{
+  font-family: Zen Loop;
+    font-size: 20px  
+}
